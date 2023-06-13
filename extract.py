@@ -1,0 +1,2 @@
+def extractData(path):
+    return
